@@ -1,3 +1,4 @@
 # config-repo
 
-some config --my config repository
+some config 
+--my config repository
