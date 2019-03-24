@@ -1,4 +1,5 @@
 # config-repo
 
-some config 
+分布式配置中心Spring Cloud Config
+
 --my config repository
